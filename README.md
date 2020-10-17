@@ -11,7 +11,7 @@ Even though the 21st century has shown us the advancements in technology in the 
 
 **What sub-topic has your team chosen? Or did you choose a topic not within the specified topics?**
 
-#### Public Health
+ Public Health
 
 **Could you list the ideas that you plan to implement in your project?**
  - Online Consultation between doctor and patient
@@ -21,7 +21,7 @@ Even though the 21st century has shown us the advancements in technology in the 
   
  **What language (programming) are you using?**
  
- #### Java in Netbeans IDE
+ Java in Netbeans IDE
  
 
  
