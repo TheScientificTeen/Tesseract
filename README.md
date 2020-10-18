@@ -22,9 +22,18 @@ Even though the 21st century has shown us the advancements in technology in the 
   
  **What language (programming) are you using?**
  
- Java in Netbeans IDE
+ Java in Netbeans IDE,EchoAR
  
-
+ ## Deliverable - Update 2:
+ 
+ **Have you made any new ideas?**
+ Yes
+ 
+ **Could you list some more ideas you plan to implement in your project?**
+  - Added a sleep timer feature for patients
+  - Schedule appointments with the doctors
+  - Public Awareness(making the general public aware of how their health affects the economy of the country)
+  https://user-images.githubusercontent.com/72314477/96359209-a424ae80-112d-11eb-979f-6bc67a1cd95f.jpg
  
  
  
