@@ -41,6 +41,23 @@ Even though the 21st century has shown us the advancements in technology in the 
  ### Login Page
  ![login](https://user-images.githubusercontent.com/72314477/96359699-67f44c80-1133-11eb-84a8-02088c888048.png)
 
+ ## Deliverable - Update 3:
  
+ **Have you made any new ideas?**
+ Yes
+ 
+ **Could you list some more ideas you plan to implement in your project?**
+  - Utilization of Augmented Reality via EchoAR to present data
+  - Using a password protected local database to enhance security and preventing loss of data
+ 
+ ### Patient Window
+ ![Patient Window](https://user-images.githubusercontent.com/72314477/96367080-4e6df780-1169-11eb-9555-ef23196b0d0e.png)
+ 
+ ### Doctor Window
+ ![Doctor window](https://user-images.githubusercontent.com/72314477/96367082-5463d880-1169-11eb-8f06-78bcd7005472.png)
+ 
+ ### Patient Access
+ ![Patient Access Window](https://user-images.githubusercontent.com/72314477/96367087-5af25000-1169-11eb-8e81-6a12d04ab9b4.png)
+  
  
 
