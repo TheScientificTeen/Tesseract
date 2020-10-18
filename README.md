@@ -35,7 +35,10 @@ Even though the 21st century has shown us the advancements in technology in the 
   - Schedule appointments with the doctors
   - Public Awareness(making the general public aware of how their health affects the economy of the country)
   
+ ### Welcome Page
+ ![welcome](https://user-images.githubusercontent.com/72314477/96359653-c5d46480-1132-11eb-9a08-48087ade93a1.png)
  
+ ### Login Page
  
  
 
